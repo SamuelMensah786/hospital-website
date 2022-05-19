@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hospital-website/static/css/main.9b1e08b3.chunk.css",
+    "main.js": "/hospital-website/static/js/main.72b9df62.chunk.js",
+    "main.js.map": "/hospital-website/static/js/main.72b9df62.chunk.js.map",
+    "runtime-main.js": "/hospital-website/static/js/runtime-main.3166b86a.js",
+    "runtime-main.js.map": "/hospital-website/static/js/runtime-main.3166b86a.js.map",
+    "static/css/2.c1256375.chunk.css": "/hospital-website/static/css/2.c1256375.chunk.css",
+    "static/js/2.35d682aa.chunk.js": "/hospital-website/static/js/2.35d682aa.chunk.js",
+    "static/js/2.35d682aa.chunk.js.map": "/hospital-website/static/js/2.35d682aa.chunk.js.map",
+    "static/js/3.a2a1118c.chunk.js": "/hospital-website/static/js/3.a2a1118c.chunk.js",
+    "static/js/3.a2a1118c.chunk.js.map": "/hospital-website/static/js/3.a2a1118c.chunk.js.map",
+    "index.html": "/hospital-website/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/hospital-website/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.9b1e08b3.chunk.css.map": "/hospital-website/static/css/main.9b1e08b3.chunk.css.map",
+    "static/js/2.35d682aa.chunk.js.LICENSE.txt": "/hospital-website/static/js/2.35d682aa.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/hospital-website/static/media/Team.10378c38.jpg",
+    "static/media/TeamA1.429add79.jpg": "/hospital-website/static/media/TeamA1.429add79.jpg",
+    "static/media/dr.4142d886.png": "/hospital-website/static/media/dr.4142d886.png",
+    "static/media/notfound.f16ca75e.jpg": "/hospital-website/static/media/notfound.f16ca75e.jpg",
+    "static/media/ridge.ebd01717.jpg": "/hospital-website/static/media/ridge.ebd01717.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3166b86a.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.35d682aa.chunk.js",
+    "static/css/main.9b1e08b3.chunk.css",
+    "static/js/main.72b9df62.chunk.js"
+  ]
+}
