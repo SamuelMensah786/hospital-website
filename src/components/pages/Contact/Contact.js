@@ -23,7 +23,7 @@ const Contact = () => {
                 <Row className="my-5">
                 <div className="col-md-6">
                 <Image src={contactUs} fluid />
-                    <p className="my-3">For further information on any of our services, or to reach a patient, please contact The Greenlife Hospital main phone line. If you have any questions, one of our Contact Centre Agents will be happy to direct your call to the appropriate area.</p>
+                    <p className="my-3">For further information on any of our services, or to reach a patient, please contact The Doctor On Demand main phone line. If you have any questions, one of our Contact Centre Agents will be happy to direct your call to the appropriate area.</p>
                 </div>
                 <div className="col-md-6">
                     <Form className="contact">

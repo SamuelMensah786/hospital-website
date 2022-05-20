@@ -14,16 +14,16 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-xs-12 col-sm-6">
                         <div className="copyright">
-                            <p><span className="text-info fw-bolder">Doctors On Demand</span> © Copyright 2022. All Rights Reserved.<span className="text-info fw-bolder"> Development By Doctors On Demand</span></p>
+                            <p><span className="text-info fw-bolder">Doctors On Demand</span> © Copyright 2022. All Rights Reserved.<span className="text-info fw-bolder"> Developmed By DOD Agency</span></p>
                         </div>
                     </div>
 
                     <div className="col-xs-12 col-sm-6">
-                        <div className="social-icon text-center">
+                        {/* <div className="social-icon text-center">
                             <a href="https://facebook.com/wdkabirhossain" target="_blank" rel="noopener noreferrer"><span>{facebookIcon}</span></a>
                             <a href="https://instagram.com/wdkabir" target="_blank" rel="noopener noreferrer"><span>{instagramIcon}</span></a>
                             <a href="https://github.com/wdkabir" target="_blank" rel="noopener noreferrer"><span>{githubIcon}</span></a>
-                        </div>
+                        </div> */}
                     </div>
 
                 </div>
